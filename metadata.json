@@ -1,0 +1,6 @@
+{
+  "name": "PC Master Sim 3D - Simulator Perakitan Komputer Edukatif",
+  "description": "Simulator perakitan komputer 3D interaktif dan media edukasi hardware vokasi: SOP 4 fase perakitan, uji POST, BIOS simulator, dan troubleshooting interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
